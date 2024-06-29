@@ -1,1 +1,1 @@
-# llm-zoomcamp-rag-workshop
+# llm-zoomcamp
